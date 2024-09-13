@@ -20,4 +20,6 @@ The expanding size of Excel files has led to performance problems, resulting in 
 4. In APAC region, Amazon contributed maximum net sales % of 12,99% among rest customers in 2021.
 5. In APAC, region India ranks 1 in terms of total gross sales.
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Pranoy-Roy)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranoy-roy01/)
 
